@@ -1,0 +1,285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Gutenberg Post Blocks Pro\n"
+"POT-Creation-Date: 2020-09-20 19:38+0600\n"
+"PO-Revision-Date: 2020-09-20 19:38+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ultimate-post-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: addons/category/Category.php:39 addons/category/Category.php:76
+msgid "Image"
+msgstr ""
+
+#: addons/category/Category.php:43 addons/category/Category.php:86
+msgid "Add Image"
+msgstr ""
+
+#: addons/category/Category.php:44 addons/category/Category.php:87
+msgid "Remove Image"
+msgstr ""
+
+#: addons/category/Category.php:48 addons/category/Category.php:96
+msgid "Color"
+msgstr ""
+
+#: addons/category/Category.php:126
+msgid "Insert"
+msgstr ""
+
+#: addons/category/init.php:11
+msgid "Category"
+msgstr ""
+
+#: addons/category/init.php:12
+msgid "Set your category specific color for block design."
+msgstr ""
+
+#: addons/imageloading/init.php:11
+msgid "Image Loading"
+msgstr ""
+
+#: addons/imageloading/init.php:12
+msgid "Set your Image Loading Functionality for every blocks."
+msgstr ""
+
+#: addons/templates/Condition.php:57
+msgid "Name of Your Template"
+msgstr ""
+
+#: addons/templates/Condition.php:59
+msgid "Template Name"
+msgstr ""
+
+#: addons/templates/Condition.php:63
+msgid "Select Template Type"
+msgstr ""
+
+#: addons/templates/Condition.php:72
+msgid "Create Template"
+msgstr ""
+
+#: addons/templates/Condition.php:73
+msgid "Save & Edit Template"
+msgstr ""
+
+#: addons/templates/Condition.php:80
+msgid "Where You Want to Display Your Template"
+msgstr ""
+
+#: addons/templates/Template.php:59
+msgid "Template Type"
+msgstr ""
+
+#: addons/templates/Template.php:76
+msgctxt "Templates"
+msgid "Templates"
+msgstr ""
+
+#: addons/templates/Template.php:77
+msgctxt "Templates"
+msgid "Template"
+msgstr ""
+
+#: addons/templates/Template.php:78 addons/templates/Template.php:80
+#: addons/templates/init.php:11
+msgid "Templates"
+msgstr ""
+
+#: addons/templates/Template.php:79
+msgid "Parent Template"
+msgstr ""
+
+#: addons/templates/Template.php:81
+msgid "View Template"
+msgstr ""
+
+#: addons/templates/Template.php:82 addons/templates/Template.php:83
+msgid "Add New Template"
+msgstr ""
+
+#: addons/templates/Template.php:84
+msgid "Edit Template"
+msgstr ""
+
+#: addons/templates/Template.php:85
+msgid "Update Template"
+msgstr ""
+
+#: addons/templates/Template.php:86
+msgid "Search Template"
+msgstr ""
+
+#: addons/templates/Template.php:87
+msgid "No Template Found"
+msgstr ""
+
+#: addons/templates/Template.php:88
+msgid "Not Template found in Trash"
+msgstr ""
+
+#: addons/templates/init.php:12
+msgid "Create Your Archive Page Template for Archive Pages."
+msgstr ""
+
+#: classes/Notice.php:41 classes/Notice.php:60
+msgid "Dismiss"
+msgstr ""
+
+#: classes/Notice.php:42 classes/Notice.php:61
+msgid "Welcome to Gutenberg Post Blocks Pro."
+msgstr ""
+
+#: classes/Notice.php:43
+msgid ""
+"Gutenberg Post Blocks Pro is a block plugin. To use this plugins you have to "
+"install and activate Gutenberg Post Blocks."
+msgstr ""
+
+#: classes/Notice.php:44
+msgid "Install Gutenberg Post Blocks"
+msgstr ""
+
+#: classes/Notice.php:62
+msgid ""
+"Gutenberg Post Blocks Pro is a Block plugin. To use this plugins you have to "
+"install and activate Gutenberg Post Blocks."
+msgstr ""
+
+#: classes/Notice.php:63
+msgid "Activate Gutenberg Post Blocks"
+msgstr ""
+
+#: classes/Notice.php:225
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:262
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:270
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:514
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: classes/updater/EDD_SL_Plugin_Updater.php:514
+msgid "Error"
+msgstr ""
+
+#: classes/updater/License.php:47 classes/updater/License.php:48
+msgid "License"
+msgstr ""
+
+#: classes/updater/License.php:62
+msgid "Gutenberg Post Blocks"
+msgstr ""
+
+#: classes/updater/License.php:65
+msgid "Welcome to <strong>Gutenberg Post Blocks</strong> - Version"
+msgstr ""
+
+#: classes/updater/License.php:67
+msgid "Most Powerful & Advanced Gutenberg Post Blocks"
+msgstr ""
+
+#: classes/updater/License.php:67
+msgid "Rate the plugin"
+msgstr ""
+
+#: classes/updater/License.php:82
+msgid "License Key"
+msgstr ""
+
+#: classes/updater/License.php:88
+msgid "Activate"
+msgstr ""
+
+#: classes/updater/License.php:90
+msgid "Not Activate"
+msgstr ""
+
+#: classes/updater/License.php:92
+msgid "Enter your license key"
+msgstr ""
+
+#: classes/updater/License.php:96
+msgid "Your License is not Activated."
+msgstr ""
+
+#: classes/updater/License.php:96
+msgid "Buy Pro"
+msgstr ""
+
+#: classes/updater/License.php:102
+msgid "Check & Save License"
+msgstr ""
+
+#: classes/updater/License.php:134 classes/updater/License.php:162
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: classes/updater/License.php:141
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: classes/updater/License.php:146
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: classes/updater/License.php:149
+msgid "Invalid license."
+msgstr ""
+
+#: classes/updater/License.php:153
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: classes/updater/License.php:156
+msgid "This appears to be an invalid license key."
+msgstr ""
+
+#: classes/updater/License.php:159
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gutenberg Post Blocks Pro"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Gutenberg Post blocks Pro is a Gutenberg block Plugin for creating dynamic "
+"blog listing, grid and slider."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wpxpo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpxpo.com/"
+msgstr ""
